@@ -1,0 +1,1 @@
+150/150 [==============================] - 8s 53ms/step - loss: 2.2413 - smape_loss: 2.2413 - root_mean_squared_error: 0.0188 - mean_absolute_percentage_error: 2.7991 - mse: 3.5284e-04 - val_loss: 1.2993 - val_smape_loss: 1.2993 - val_root_mean_squared_error: 0.0107 - val_mean_absolute_percentage_error: 1.7597 - val_mse: 1.1486e-04 

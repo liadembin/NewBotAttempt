@@ -1,0 +1,54 @@
+{"message":"Success","result":[]}
+[*********************100%***********************]  1 of 1 completed
+0 Open
+1 High
+2 Low
+3 Close
+4 Adj Close
+5 Volume
+                               Open      High       Low     Close  Adj Close    Volume
+2019-09-18 09:30:00-04:00  0.177511  0.176764  0.179741  0.177374   0.177374  0.035825
+2019-09-18 10:30:00-04:00  0.177320  0.176729  0.180187  0.177059   0.177059  0.010406
+2019-09-18 11:30:00-04:00  0.177100  0.176495  0.180132  0.177046   0.177046  0.006495
+X shape:  (5031, 60, 6)
+y shape:  (5031,)
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+{"currentCash":100000}
+{"message":"Success","result2":{"fieldCount":0,"affectedRows":1,"insertId":0,"info":"","serverStatus":2,"warningStatus":0},"result3":{"fieldCount":0,"affectedRows":1,"insertId":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","serverStatus":2,"warningStatus":0,"changedRows":1}}
+shorting
+inited
+{"message":"Success","result":[{"buyerid":6,"priceatpurchase":36.345001220703125,"numberofstocks":-550,"isShort":1,"ticker":"tqqq"}]}
+[*********************100%***********************]  1 of 1 completed
+4
+stop loss sell index-4
+{"numberofstocks":-550}
+{"numberofstocks":-550}
+from stop
+550
+token :  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NiwidXNlcm5hbWUiOiJwbHBsIiwiaWF0IjoxNjYwMDI4MTE5fQ.SABgFBI6E1XAYrLiIg76vwaf5nk445sJeyGXwQ_FiT0
+ticker: tqqq
+num : 550
+[*********************100%***********************]  1 of 1 completed
+{"currentCash":80010.25}
+payload
+req
+res text:
+{"message":"Successfully updated existing short","result3":{"fieldCount":0,"affectedRows":1,"insertId":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","serverStatus":2,"warningStatus":0,"changedRows":1},"result":{"fieldCount":0,"affectedRows":1,"insertId":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","serverStatus":2,"warningStatus":0,"changedRows":1},"params":{"profit":-2.7484893798828125,"currentPrice":"36.349998474121094","currentCash":80010.25,"priceAtPurchase":-19989.75067138672,"number_of_stocks":550,"price":"36.34749984741211"}}
+res json: 
+{'message': 'Successfully updated existing short', 'result3': {'fieldCount': 0, 'affectedRows': 1, 'insertId': 0, 'info': 'Rows matched: 1  Changed: 1  Warnings: 0', 'serverStatus': 2, 'warningStatus': 0, 'changedRows': 1}, 'result': {'fieldCount': 0, 'affectedRows': 1, 'insertId': 0, 'info': 'Rows matched: 1  Changed: 1  Warnings: 0', 'serverStatus': 2, 'warningStatus': 0, 'changedRows': 1}, 'params': {'profit': -2.7484893798828125, 'currentPrice': '36.349998474121094', 'currentCash': 80010.25, 'priceAtPurchase': -19989.75067138672, 'number_of_stocks': 550, 'price': '36.34749984741211'}}
+after loss amount:
+{"numberofstocks":0}
+0
+{"message":"Success","result":[]}
+no active position
+{"message":"Success","result":[]}
+no active position
+{"message":"Success","result":[]}
+no active position
+{"message":"Success","result":[]}
+no active position
+{"message":"Success","result":[]}
+no active position
+{"message":"Success","result":[]}
+no active position
